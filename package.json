@@ -1,0 +1,14 @@
+{
+  "name": "hr-dev-jest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest index.test.js"
+  },
+  "dependencies": {
+    "jest": "26.2.2",
+    "parcel": "1.12.4"
+  },
+  "keywords": []
+}
